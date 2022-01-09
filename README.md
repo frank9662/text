@@ -11,7 +11,7 @@
 3. 点击Settings -> Secrets -> 点击绿色按钮 (如无绿色按钮说明已激活。直接到第四步。)
 4. 新增 new secret  参数名IQIYI_COOKIE 值是你刚才获取的authcookie
 5. 任意修改仓库内任意文件或点击右上角 Star 即可触发。
-6. 66
+6. 666
 
 **本项目需要设置的 Secrets:**
 
